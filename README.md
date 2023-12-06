@@ -8,7 +8,7 @@
 **Android Studio:** The official IDE for Android development.
 
 ## Screenshots
-![Uploading leafy1.png…]()
+![leafy1](https://github.com/pawan-wao/leafy_PlantUIApp/assets/119276655/a0ff7a5c-e8f1-4d6e-bf3c-7f1972a55ace)
 ![leafy2](https://github.com/pawan-wao/leafy_PlantUIApp/assets/119276655/2ce8812c-4bba-4ec1-9756-ba9a08eed35e)
 
 
