@@ -1,16 +1,43 @@
-# fluttertest
 
-A new Flutter project.
+`Leafy` is a plant-focused application built using Flutter and Android Studio. The app aims to assist plant enthusiasts in managing their plants, providing care tips, and organizing their gardening routines.
 
-## Getting Started
+## Tech Stack
 
-This project is a starting point for a Flutter application.
+**Flutter:** Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
-A few resources to get you started if this is your first Flutter project:
+**Android Studio:** The official IDE for Android development.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+![Uploading leafy1.png…]()
+![leafy2](https://github.com/pawan-wao/leafy_PlantUIApp/assets/119276655/2ce8812c-4bba-4ec1-9756-ba9a08eed35e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Download Leafy
+
+You can download and install the Leafy app using the following links:
+
+Google Drive Link (20MB): https://drive.google.com/file/d/1bRdihaGal3vCIKSv5eo3TAnsgxQ7DuhE/view?usp=sharing
+
+
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/leafy.git
+    ```
+
+2. Launch Android Studio:
+    - Open Android Studio.
+    - Select "Open an existing Android Studio project."
+    - Browse and select the 'leafy' directory.
+    - Click Open.
+
+3. Run the app:
+    - Connect a device or use an emulator.
+    - Click on the Run button in Android Studio.
+
+## Feedback
+
+If you have any feedback or suggestions, please feel free to reach out to us at leafyappfeedback@gmail.com. We'd love to hear from you!
