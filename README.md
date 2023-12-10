@@ -25,7 +25,7 @@ Google Drive Link (20MB): https://drive.google.com/file/d/1bRdihaGal3vCIKSv5eo3T
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/leafy.git
+    git clone https://github.com/pawan-wao/leafy_PlantUIApp.git
     ```
 
 2. Launch Android Studio:
