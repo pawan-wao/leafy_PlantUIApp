@@ -14,7 +14,6 @@
 
 
 ## Download Leafy
-
 You can download and install the Leafy app using the following links:
 
 Google Drive Link (20MB): https://drive.google.com/file/d/1bRdihaGal3vCIKSv5eo3TAnsgxQ7DuhE/view?usp=sharing
